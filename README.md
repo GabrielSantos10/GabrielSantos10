@@ -1,6 +1,6 @@
 Olá meu nome é Gabriel Santos, sou desenvolvedor de Banco de Dados.
 
-🎞 Conhecimentos:Java, CSS, Bootstrp, HTML e MySQL .
+🎞 Conhecimentos: Java, CSS, Bootstrp, HTML e MySQL .
 
 🎞 Estudando: Ciência da Computação.
 
