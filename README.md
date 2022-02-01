@@ -20,9 +20,9 @@ JavaScript, CSS, HTML, MySQL, PostgreSQL, Python e Git.
     <br></br>
     <h1>Social</h1>
     <br>
-  <img align="center" alt="Biel-Telegram" url="https://www.instagram.com/gabriel.santos.silva2002/" height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <img align="center" alt="Biel-Telegram" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <img align="center" alt="Biel-Telegram" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://t.me/BielSantosSilv"><img align="center" alt="Biel-Telegram" height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511965436133&text=Entre%20em%20contato%20comigo"><img align="center" alt="Biel-WhatsApp" height="30" width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabriel.santos.silva2002/"><img align="center" alt="Biel-Telegram" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 
