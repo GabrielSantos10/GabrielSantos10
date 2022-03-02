@@ -6,13 +6,17 @@ JavaScript, CSS, HTML, MySQL, PostgreSQL, Python e Git.
 
 <div align="center">
   <a href="https://github.com/gabrielsantos10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" href="https://www.javascript.com">
+  <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" href="https://www.w3schools.com/html/">
+  <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" href="https://www.python.org">
+  <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" href="https://www.w3schools.com/css/">
+  <img align="center" alt="Biel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" href="https://www.php.net">
+  <img align="center" alt="Biel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" href="https://www.mysql.com">
+  <img align="center" alt="Biel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" href="https://git-scm.com">
+  <img align="center" alt="Biel-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/880613375346872392/938132683089915914/output_d1CLJW.gif?">
     <br></br>
     <h1 align="left">Social</h1>
